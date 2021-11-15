@@ -15,4 +15,7 @@ As always, I make what I need. Also, it makes something that looks fun.
 
 ### Activity
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
