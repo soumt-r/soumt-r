@@ -14,6 +14,9 @@ As always, I make what I need. Also, it makes something that looks fun.
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 31 mins    ██████████░░░░░░░░░░░░░░░   40.25 % 
+C#       1 hr 11 mins    ████████░░░░░░░░░░░░░░░░░   31.47 % 
+C        40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Other    23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 ```
 <!--END_SECTION:waka-->
