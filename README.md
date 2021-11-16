@@ -12,6 +12,7 @@ As always, I make what I need. Also, it makes something that looks fun.
 
 
 ### Activity
+<img height="400" img src="https://wakatime.com/share/@5f53198d-2502-40e8-bae4-fe901451ec0b/2c50901b-547e-47bc-a3e3-6a550a1751bd.svg">
 <!--START_SECTION:waka-->
 ```text
 Python   1 hr 31 mins    ██████████░░░░░░░░░░░░░░░   40.25 % 
@@ -20,4 +21,4 @@ C        40 mins         ████▒░░░░░░░░░░░░░�
 Other    23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 ```
 <!--END_SECTION:waka-->
-<img height="400" img src="https://wakatime.com/share/@5f53198d-2502-40e8-bae4-fe901451ec0b/2c50901b-547e-47bc-a3e3-6a550a1751bd.svg">
+
