@@ -16,7 +16,8 @@ As always, I make what I need. Also, it makes something that looks fun.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C        1 hr 30 mins    ███████████████▓░░░░░░░░░   62.40 % 
+Python   54 mins         █████████▒░░░░░░░░░░░░░░░   37.60 % 
 ```
 <!--END_SECTION:waka-->
 
