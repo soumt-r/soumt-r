@@ -12,7 +12,7 @@ As always, I make what I need. Also, it makes something that looks fun.
 
 
 ### Activity
-<img height="400" img src="https://wakatime.com/share/@soumt_r/243bdd45-4e71-4a64-bb68-9b7aa7f1d3de.svg"></img>
+<img height="400" img src="https://wakatime.com/share/@soumt_r/0e4d0df5-374b-4c75-8ddb-57d54d739f69.svg"></img>
 
 <!--START_SECTION:waka-->
 ```text
