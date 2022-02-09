@@ -16,8 +16,7 @@ As always, I make what I need. Also, it makes something that looks fun.
 
 <!--START_SECTION:waka-->
 ```text
-Python   21 mins         ████████████████████▓░░░░   82.37 % 
-Other    4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Other    4 mins          ██████████████████████▒░░   89.35 % 
 ```
 <!--END_SECTION:waka-->
 
