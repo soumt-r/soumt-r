@@ -16,6 +16,8 @@ As always, I make what I need. Also, it makes something that looks fun.
 
 <!--START_SECTION:waka-->
 ```text
+Total: 0 secs
+
 Other    4 mins          ██████████████████████▒░░   89.35 % 
 ```
 <!--END_SECTION:waka-->
