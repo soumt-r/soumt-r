@@ -16,8 +16,6 @@ As always, I make what I need. Also, it makes something that looks fun.
 
 <!--START_SECTION:waka-->
 ```text
-Total: 52 mins
-
 Python   32 mins         ███████████████▒░░░░░░░░░   61.81 % 
 JSON     13 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.95 % 
 HTML     6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 % 
