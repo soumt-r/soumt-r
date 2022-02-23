@@ -16,9 +16,11 @@ As always, I make what I need. Also, it makes something that looks fun.
 
 <!--START_SECTION:waka-->
 ```text
-Python   32 mins         ███████████████▒░░░░░░░░░   61.81 % 
-JSON     13 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.95 % 
-HTML     6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Python   37 mins         ███████████▓░░░░░░░░░░░░░   46.95 % 
+Dart     27 mins         ████████▓░░░░░░░░░░░░░░░░   34.80 % 
+YAML     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+C#       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Other    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 <!--END_SECTION:waka-->
 
