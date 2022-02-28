@@ -15,12 +15,14 @@ As always, I make what I need. Also, it makes something that looks fun.
 <img height="400" img src="https://wakatime.com/share/@soumt_r/0e4d0df5-374b-4c75-8ddb-57d54d739f69.svg"></img>
 
 <!--START_SECTION:waka-->
+
 ```text
-Dart     27 mins         ██████████▒░░░░░░░░░░░░░░   41.08 % 
-Python   25 mins         █████████▓░░░░░░░░░░░░░░░   38.50 % 
-YAML     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-C#       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Other    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Dart     27 mins         ██████████▒░░░░░░░░░░░░░░   41.08 %
+Python   25 mins         █████████▓░░░░░░░░░░░░░░░   38.50 %
+YAML     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+C#       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Other    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
+
 <!--END_SECTION:waka-->
 
