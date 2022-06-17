@@ -17,8 +17,9 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-C#       1 hr 21 mins    █████████▓░░░░░░░░░░░░░░░   39.00 %
-Other    1 hr 8 mins     ████████░░░░░░░░░░░░░░░░░   32.57 %
+HTML    1 hr 46 mins    ██████████▒░░░░░░░░░░░░░░   41.43 %
+C#      1 hr 21 mins    ████████░░░░░░░░░░░░░░░░░   31.88 %
+Other   1 hr 8 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
 ```
 
 <!--END_SECTION:waka-->
