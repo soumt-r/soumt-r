@@ -17,8 +17,8 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-HTML    1 hr 46 mins    ████████████████░░░░░░░░░   64.05 %
-Other   33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+HTML    1 hr 45 mins    ██████████████████████▒░░   89.99 %
+Other   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 ```
 
 <!--END_SECTION:waka-->
