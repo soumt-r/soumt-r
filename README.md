@@ -17,7 +17,7 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-Other   5 mins          ███████████████████████░░   91.74 %
+Other   2 mins          █████████████████████▓░░░   86.36 %
 ```
 
 <!--END_SECTION:waka-->
