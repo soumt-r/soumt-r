@@ -17,7 +17,8 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#      27 mins         ██████████████░░░░░░░░░░░   56.41 %
+Other   20 mins         ███████████░░░░░░░░░░░░░░   43.59 %
 ```
 
 <!--END_SECTION:waka-->
