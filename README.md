@@ -17,9 +17,8 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-C#       9 hrs 24 mins   ███████████████████████░░   91.42 %
-Python   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+C#       11 hrs 2 mins   ████████████████████████▓   99.04 %
+Python   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
