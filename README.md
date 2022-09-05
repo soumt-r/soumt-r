@@ -17,10 +17,10 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-C#           1 hr 51 mins    █████████████████░░░░░░░░   67.63 %
-JavaScript   30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-HTML         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C#           1 hr 51 mins    ████████████████▓░░░░░░░░   66.19 %
+JavaScript   31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+HTML         25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
