@@ -17,8 +17,10 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 20 mins    ███████████████████░░░░░░   76.52 %
-Other        20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+JavaScript   1 hr 20 mins    ████████████████████████░   95.43 %
+HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
