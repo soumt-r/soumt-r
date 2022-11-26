@@ -17,12 +17,12 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-HTML         2 hrs 33 mins   ███████████░░░░░░░░░░░░░░   43.35 %
-JavaScript   1 hr 41 mins    ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-C#           36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Python       31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-SCSS         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+HTML         2 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.17 %
+Python       2 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░   31.41 %
+JavaScript   1 hr 37 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+C#           26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+SCSS         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
