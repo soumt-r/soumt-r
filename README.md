@@ -1,4 +1,8 @@
-# Soumt
+<p align="center">
+  <img src="soumt.png" style="width:600px">
+</p>
+
+# About me
 [![Soumt's github stats](https://github-readme-stats.vercel.app/api?username=soumt-r)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumt-r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
