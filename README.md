@@ -17,10 +17,10 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 34 mins   ██████████████████████▓░░   90.24 %
-JSON         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-JavaScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       3 hrs 50 mins   ███████████████████████▓░   94.40 %
+JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
