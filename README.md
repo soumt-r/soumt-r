@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="soumt.png" style="width:600px">
+  <img src="soumt.png" style="width:500px">
 </p>
 
 # About me
