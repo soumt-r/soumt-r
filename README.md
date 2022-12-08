@@ -3,8 +3,6 @@
 </p>
 
 # About me
-[![Soumt's github stats](https://github-readme-stats.vercel.app/api?username=soumt-r)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumt-r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Soumt, a student in the web programming department of Korea Digital Media High School.
 
@@ -28,4 +26,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+[![Soumt's github stats](https://github-readme-stats.vercel.app/api?username=soumt-r)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumt-r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
