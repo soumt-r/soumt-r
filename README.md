@@ -19,12 +19,11 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-Python             4 hrs 24 mins   ███████████████████████▒░   93.45 %
-JavaScript         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-reStructuredText   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Bash               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python             3 hrs 19 mins   ████████████████████████░   95.88 %
+reStructuredText   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Bash               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
