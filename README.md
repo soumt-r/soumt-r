@@ -19,10 +19,8 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-HTML     1 hr 12 mins    ██████████████░░░░░░░░░░░   56.14 %
-CSS      53 mins         ██████████▒░░░░░░░░░░░░░░   40.97 %
-Python   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+HTML    16 mins         █████████████████████████   99.79 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
