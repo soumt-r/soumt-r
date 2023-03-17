@@ -19,11 +19,11 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 16 mins   ████████████▓░░░░░░░░░░░░   51.12 %
-JavaScript   2 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   46.61 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python       3 hrs 52 mins   ███████████████░░░░░░░░░░   59.34 %
+JavaScript   2 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.56 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
