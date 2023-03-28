@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="soumt.png" style="width:500px">
+  <img src="https://github.com/soumt-r/soumt-r/blob/main/soumt.png?raw=true#gh-light-mode-only" style="width:500px">
+  <img src="https://github.com/soumt-r/soumt-r/blob/main/soumt_dark.png?raw=true#gh-dark-mode-only" style="width:500px">
 </p>
 
 # About me
