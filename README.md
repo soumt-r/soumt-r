@@ -20,9 +20,12 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 57 mins    █████████████▓░░░░░░░░░░░   54.78 %
-TypeScript   1 hr 36 mins    ███████████▒░░░░░░░░░░░░░   45.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python             2 hrs 7 mins    ████████████▒░░░░░░░░░░░░   49.43 %
+TypeScript         1 hr 36 mins    █████████▒░░░░░░░░░░░░░░░   37.54 %
+YAML               28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Text               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Bash               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
