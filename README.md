@@ -20,12 +20,12 @@ As always, I make what I need. Also, it makes something that looks fun.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript         2 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.47 %
-C                  2 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Go                 1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Python             59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Objective-C        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-YAML               29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Python        3 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.69 %
+TypeScript    2 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+C             2 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Go            1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Objective-C   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Markdown      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
