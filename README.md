@@ -13,6 +13,8 @@ As always, I make what I need. Also, it makes something that looks fun.
 - 🌱 I’m currently learning C#, Python, Linux, RPI
 - :pushpin: I'm interested in AVR boards like Arduino, MicroPython with ESP8266, IOT projects with RPI and Flask
 
+### Translate
+I often contribute to Korean translations of various projects. If you are interested in Korean localization of your own project, feel free to contact me.
 
 ### Activity
 <img height="400" img src="https://wakatime.com/share/@soumt_r/0e4d0df5-374b-4c75-8ddb-57d54d739f69.svg"></img>
