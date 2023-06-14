@@ -22,8 +22,11 @@ I often contribute to Korean translations of various projects. If you are intere
 <!--START_SECTION:waka-->
 
 ```txt
-EJS          1 hr 21 mins    ██████████████████▓░░░░░░   75.06 %
-TypeScript   27 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
+EJS          3 hrs 8 mins    ██████████████▓░░░░░░░░░░   59.06 %
+TypeScript   2 hrs 9 mins    ██████████░░░░░░░░░░░░░░░   40.64 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
