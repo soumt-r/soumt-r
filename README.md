@@ -10,7 +10,7 @@ I'm Soumt, a student in the web programming department of Korea Digital Media Hi
 As always, I make what I need. Also, it makes something that looks fun.
 
 ### More about me?
-- 🌱 I’m currently learning C#, Python, Linux, RPI
+- 🌱 I’m currently learning C#, Python, Linux, RPI, NodeJS
 - :pushpin: I'm interested in AVR boards like Arduino, MicroPython with ESP8266, IOT projects with RPI and Flask
 
 ### Translate
