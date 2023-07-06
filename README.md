@@ -22,11 +22,11 @@ I often contribute to Korean translations of various projects. If you are intere
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.67 %
-CSS          5 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   23.81 %
-HTML         4 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
-JavaScript   2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-JSON         1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+CSS          8 hrs 50 mins   ████████▓░░░░░░░░░░░░░░░░   34.97 %
+HTML         7 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.23 %
+JavaScript   3 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+Python       3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+JSON         2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
 ```
 
 <!--END_SECTION:waka-->
