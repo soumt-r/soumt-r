@@ -22,11 +22,7 @@ I often contribute to Korean translations of various projects. If you are intere
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 6 mins     ████████▒░░░░░░░░░░░░░░░░   33.80 %
-Vue.js       53 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-Python       37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-JSON         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-YAML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+TypeScript   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
