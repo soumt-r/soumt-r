@@ -22,7 +22,7 @@ I often contribute to Korean translations of various projects. If you are intere
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 mins          █████████████████████████   100.00 %
+YAML   26 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
