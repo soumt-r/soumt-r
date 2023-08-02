@@ -22,11 +22,11 @@ I often contribute to Korean translations of various projects. If you are intere
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   35.62 %
-CSS          2 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-HTML         2 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-YAML         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Rust         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Python       4 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   40.61 %
+CSS          2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+HTML         2 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+YAML         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Rust         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
