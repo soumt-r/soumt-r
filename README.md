@@ -22,11 +22,11 @@ I often contribute to Korean translations of various projects. If you are intere
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         3 hrs 29 mins   ███████████▓░░░░░░░░░░░░░   47.19 %
-TypeScript   1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
-HTML         1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-CSS          35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Python       33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+TypeScript   1 hr 31 mins    ████████▓░░░░░░░░░░░░░░░░   35.10 %
+HTML         1 hr 3 mins     ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+CSS          35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Bash         33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Python       31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
 ```
 
 <!--END_SECTION:waka-->
