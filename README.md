@@ -22,8 +22,8 @@ I often contribute to Korean translations of various projects. If you are intere
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   31 mins         █████████████████████▓░░░   86.93 %
-Markdown     4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+TypeScript   28 mins         █████████████████████▒░░░   85.60 %
+Markdown     4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
 ```
 
 <!--END_SECTION:waka-->
