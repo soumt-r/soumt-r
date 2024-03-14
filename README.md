@@ -8,6 +8,7 @@
 I'm Soumt (a.k.a. Rera*C).
 
 2021 ~ 2023 - Web programming department of Korea Digital Media High School
+
 2024 ~      - Japanese department of Hanyang University in Ansan
 
 As always, I make what I need. Also, it makes something that looks fun.
